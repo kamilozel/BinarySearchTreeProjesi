@@ -2,4 +2,4 @@
 Patika.dev Veri Yapıları ve Algoritmaları - Binary Search Tree Projesi
 
 
-![Tux, the Linux mascot](https://ibb.co/BqZYRQs)
+![Aşamaların Çizimi](https://prnt.sc/uCB_-UQonqQn)
