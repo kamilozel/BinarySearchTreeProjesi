@@ -2,4 +2,4 @@
 Patika.dev Veri Yapıları ve Algoritmaları - Binary Search Tree Projesi
 
 
-![Aşamaların Çizimi](https://ibb.co/W2br35F)
+![Aşamaların Çizimi](https://github.com/kamilozel/BinarySearchTreeProjesi/blob/main/Screenshot_22.png)
